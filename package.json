@@ -1,0 +1,23 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "This is to practice javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pallavi17bhatt/javascript-practice.git"
+  },
+  "author": "pallavibhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallavi17bhatt/javascript-practice/issues"
+  },
+  "homepage": "https://github.com/pallavi17bhatt/javascript-practice#readme",
+  
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
